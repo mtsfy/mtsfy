@@ -1,14 +1,12 @@
 
-## :wave: Hello, I am Muse!
+## :wave: Hello.
 
 
 ## :page_facing_up: About
 - I am a student at the University of the District of Columbia (UDC).
 - I am studying Computer Science.
+- I live in Washington, D.C.
 
-## :book: Learning 
-- OpenGL
-- NLP
 ## :mag: Interests
 - Software Development
 - Computer Graphics
@@ -17,7 +15,8 @@
 ## :handshake: Contact
 - [Email](mailto:muse.tesfaye@udc.edu)
 - [LinkedIn](https://www.linkedin.com/in/musetesfaye)
+- [Portfolio](https://mtsfy.com)
 
-##  *WIP*
+## :recycle:  *WIP*
 - *[LinkSelf](https://github.com/mtsfy/linkself)*
 - *[Souk](https://github.com/mtsfy/souk)*
